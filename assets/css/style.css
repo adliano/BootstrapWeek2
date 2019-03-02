@@ -1,0 +1,22 @@
+/* Debug colors */
+.bg-green{
+    background-color: greenyellow;
+    /* border-color: green; */
+    /* border-width: 1%;  */
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-brow{
+    background-color: brown;
+}
+
+.bg-red{
+    background-color: red;
+}
